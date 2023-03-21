@@ -25,4 +25,4 @@ Home Page-
   ![failure](https://user-images.githubusercontent.com/95754028/226539591-4e57a8ab-213c-44fe-94fb-c4467c2ac0b5.png)
 
   ## Inspiration
-I Like to thank @angelabauer  for the wonderful ' Web Development Bootcamp ' on Udemy 
+I Like to thank @angelabauer  for the wonderful  Web Development Bootcamp  on Udemy 
